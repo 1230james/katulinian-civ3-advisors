@@ -16,7 +16,7 @@ There's six advisors but only four characters' worth of sprites, thus:
 ## Character List
 
 * Domestic Advisor: Angelica
-* Trade Advisor: Miyu
+* Trade Advisor: Casual Miyu
 * Military Advisor: Guard Madeline
 * Foreign Advisor: Regal Cynthia
 * Culture Advisor: Office Madeline
