@@ -45,6 +45,6 @@ For users without Conquests or Complete, users who want to add these to a larger
 
 *Remember to back up a copy of the files you are overwriting!*
 
-## Previews
+## Samples
 
-*Placeholder*
+Click [here](https://github.com/1230james/katulinian-civ3-advisors/blob/master/samples.md) to view sample screenshots.
